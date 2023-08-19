@@ -4,7 +4,8 @@ $red-color: #FF0000;
 
 button {
     color: $red-color;
-    >&:hover {
+    
+    &:hover {
         color: $hover-color;
     }
 }
